@@ -1,5 +1,5 @@
-# raglit/__main__.py
-from raglit.llm import get_llm, test_llm
+# litrag/__main__.py
+from litrag.llm import get_llm, test_llm
 
 # Global for easy testing
 llm = get_llm()
