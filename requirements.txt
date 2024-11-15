@@ -1,3 +1,5 @@
+chromadb
 langchain
 langchain-community
+langchain-core
 ollama
