@@ -1,4 +1,5 @@
 #!/bin/bash
+# NOT USED RIGHT NOW
 # start Ollama server
 ollama serve &
 
